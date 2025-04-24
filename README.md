@@ -12,3 +12,4 @@ RNA-seq and DNA methylation provide distinct insights into cancer mechanisms. RN
 Previous research has demonstrated the utility of both data types in cancer research. For example, Cantini et al. (2021) showed that combining muti-omics data, including RNA-seq and DNA methylation, significantly improved cancer classification accuracy by capturing complementary biological information. Wojewodzic and Lavender (2024) also found that DNA methylation data, when used with machine learning models, offers highly accurate cancer classifications. These findings underscore the potential of both data types in diagnostic applications. 
 
 ---
+Research done for University Project. 
