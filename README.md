@@ -1,4 +1,4 @@
-## 🔬Cancerous Tumour Classification with RNA and DNA Methylation-Data
+## 🧬Cancerous Tumour Classification with RNA and DNA Methylation-Data
 
 Accurate classification of cancer samples – differentiating between ‘Primary Tumour’ and ‘Solid Tissue Normal’ is a challenge in cancer diagnostics, with significant implications for patient outcomes and treatment strategies. Advances in high-throughput molecular techniques, such as RNA sequencing (RNA-seq) and DNA methylation profiling, offer new avenues for improving the precision of these classification (Cantini et al., 2021; Wojewodzic & Lavender, 2024). However, it remains unclear which molecular data type provides predictive power for classifying cancer samples. RNA-seq measures gene expression levels, while DNA methylation captures epigenetic modifications that regulate gene expression. Understanding which data type yields superior performance in cancer classification could enhance the development of personalised medicine approaches in oncology. 
 
